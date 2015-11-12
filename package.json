@@ -1,0 +1,11 @@
+{
+  "name": "gulp-scss-lint-test-error",
+  "author": {
+    "name": "Juanfran Alcántara"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-scss-lint": "^0.3.8"
+  },
+  "dependencies": {}
+}
